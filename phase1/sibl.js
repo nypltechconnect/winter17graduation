@@ -4,10 +4,6 @@ projects = [
     "Instructor": "Ian Sudderth",
     "Personal Projects": [
       {
-        "Name": "Dianette Caraballo-Velez",
-        "url": "https://revgit1122.github.io/primeraadventura/"
-      },
-      {
         "Name": "Sabrina Rouabhi",
         "url": "https://sabrinar1988.github.io/sabrina88/"
       },
