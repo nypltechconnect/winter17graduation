@@ -72,7 +72,7 @@
 }
 
 .logo-header {
-	background-image: url(../images/nypl-tech-connect-logos-large-hires.png);
+	background-image: url("../images/nypl-tech-connect-logos-large-hires.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center bottom;
