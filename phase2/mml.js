@@ -26,6 +26,10 @@ projects = [
       {
         "Name": "George Greenslade",
         "url": "https://george2916.github.io/Sarah-Jane-and-Laurel-Marie/"
+      },
+      {
+        "Name": "Karim Walker",
+        "url": "https://kcwalker.github.io/"
       }
     ],
     "Group Projects": [
