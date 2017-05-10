@@ -1,7 +1,7 @@
 projects = [
 {
     "Location": " Chatham Square Tues & Thurs",
-    "Instructor": "Kurt Petrek",
+    "Instructor": "Aaron McGuire",
     "Personal Projects": [
       {
         "Name": "Michael Robinson",
