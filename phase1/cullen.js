@@ -37,6 +37,10 @@ projects = [{
       {
         "Name": "Kells Barnett",
         "url": "https://kellsmania.github.io/documentaryclub"
+      },
+      {
+        "Name": "Ishisha Timmons",
+        "url": "https://ishisha.github.io/healthyhearts/index.html"
       }
     ],
     "Group Projects": [
