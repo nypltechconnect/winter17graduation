@@ -64,6 +64,22 @@ projects = [
       {
         "Name": "Exploring Bryant Park",
         "URL": "https://aklimack.github.io/exploring-bryant-park/"
+      },
+      {
+        "Name": "Code Travelers",
+        "URL": "https://jodyeliz.github.io/travelcoders-project/index.html"
+      },
+      {
+        "Name": "The East Village",
+        "URL": "https://ccmicheau.github.io/group-project/"
+      },
+      {
+        "Name": "Welcome to the Lower East Side",
+        "URL": "https://jose7fernandez.github.io/techconnect-classproject/"
+      },
+      {
+        "Name": "Travel Destinations",
+        "URL": "https://algarvia.github.io/travel-destinations/"
       }
     ]
   },
@@ -157,7 +173,7 @@ projects = [
       },
       {
         "Name": "David Adeyi",
-        "url": "davidadeyi1980.github.io/vetogether"
+        "url": "https://davidadeyi1980.github.io/vetogether"
       },
       {
         "Name": "Elizabeth Parisi",
@@ -198,7 +214,7 @@ projects = [
         "URL": "https://rklubz.github.io/chelsea/"
       },
       {
-        "Name": "Cas and Dogs",
+        "Name": "Cats and Dogs",
         "URL": "https://elizparisi.github.io/cats-and-dogs/"
       },
       {

@@ -21,7 +21,7 @@ projects = [
       },
       {
         "Name": "Anna Borgman",
-        "url": "aborgman.github.io/hoytfarms"
+        "url": "https://aborgman.github.io/hoytfarms"
       },
       {
         "Name": "Peter Mui",
